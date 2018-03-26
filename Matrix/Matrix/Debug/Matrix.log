@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\michal\source\repos\matrix\matrix\main.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Matrix.vcxproj -> C:\Users\Michal\source\repos\Matrix\Debug\Matrix.exe
+  Matrix.vcxproj -> C:\Users\Michal\source\repos\Matrix\Debug\Matrix.pdb (Partial PDB)
